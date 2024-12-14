@@ -35,8 +35,6 @@ div.swiper-wrapper.open{
 .header-title{
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
-    letter-spacing: -0.01em;
     text-transform: uppercase;
     color: #7e7e82;
 }
