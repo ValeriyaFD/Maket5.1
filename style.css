@@ -108,7 +108,7 @@ div.swiper-slide{
 .main{
     padding: 24px 24px 34px 24px;
 }
-div.swiper-wrapper{
+-webkit-div.swiper-wrapper{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     row-gap: 16px;
@@ -144,7 +144,7 @@ div.swiper-slide,
 .main{
     padding: 24px 33px 34px 32px;
 }
-div.swiper-wrapper{
+-webkit-div.swiper-wrapper{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     row-gap: 16px;
